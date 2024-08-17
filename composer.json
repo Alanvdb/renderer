@@ -1,0 +1,21 @@
+{
+    "name": "alanvdb/renderer",
+    "description": "A basic PHP renderer using named templates",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "^11.3"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "AlanVdb\\Renderer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "alanvdb",
+            "email": "alanvdb.coder@gmail.com"
+        }
+    ],
+    "require": {}
+}
